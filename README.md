@@ -1,3 +1,3 @@
 # DTMF-DecoderAndEncoder
-<h1>1 - Phone Number To DTMF Tones</h1>
-2 - DTMF Tones To Phone Number
+<h2>1 - Phone Number To DTMF Tones</h2>
+<h2>2 - DTMF Tones To Phone Number</h2>
